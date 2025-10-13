@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transports>
+  <transport id="t1" type="car">
+    <name>Mitsubishi Lancer</name>
+    <fuel>petrol</fuel>
+    <capacity>5</capacity>
+    <year>2011</year>
+  </transport>
+
+  <transport id="t2" type="bike">
+    <name>Cube Touring</name>
+    <fuel>none</fuel>
+    <capacity>1</capacity>
+    <type_of_bike>city</type_of_bike>
+  </transport>
+
+  <transport id="t3" type="bus">
+    <name>Line 10</name>
+    <fuel>diesel</fuel>
+    <capacity>50</capacity>
+    <operator>PKS</operator>
+  </transport>
+</transports>

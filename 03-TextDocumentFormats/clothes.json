@@ -53,5 +53,26 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+     {
+      "name": "Adidas",
+      "founded": 1949,
+      "headquarters": "Herzogenaurach, Germany",
+      "employees": 59000,
+      "products": ["Sportswear", "Footwear", "Equipment"]
+    },
+    {
+      "name": "Levi's",
+      "founded": 1853,
+      "headquarters": "San Francisco, California, USA",
+      "employees": 16800,
+      "products": ["Jeans", "Clothing", "Accessories"]
+    },
+    {
+      "name": "The North Face",
+      "founded": 1966,
+      "headquarters": "Denver, Colorado, USA",
+      "employees": 2500,
+      "products": ["Outdoor clothing", "Footwear", "Camping gear"]
     }
-]
+  ]

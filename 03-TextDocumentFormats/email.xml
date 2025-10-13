@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <sender>iziakizia@example.com</sender>
+    <recipient>baka@example.com</recipient>
+    <subject>Project Update</subject>
+    <body>The project is progressing as scheduled. Next meeting is on Monday.</body>
+</email>

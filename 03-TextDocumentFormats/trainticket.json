@@ -1,0 +1,20 @@
+{
+  "ticket_id": "IC-784512",
+  "passenger_name": "Izia Kizia",
+  "departure_station": "Warszawa Centralna",
+  "arrival_station": "Kraków Główny",
+  "departure_time": "2025-10-20T08:15:00",
+  "arrival_time": "2025-10-20T11:05:00",
+  "train_type": "InterCity",
+  "seat": {
+    "carriage": 6,
+    "seat_number": 18,
+    "class": "2nd"
+  },
+  "price": 149.90,
+  "currency": "PLN",
+  "is_refundable": true,
+  "amenities": ["WiFi", "Power socket", "Air conditioning"],
+  "purchase_date": "2025-10-13",
+  "travel_duration_minutes": 170
+}
