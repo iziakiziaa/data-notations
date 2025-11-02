@@ -1,0 +1,14 @@
+body { font-family: Arial, sans-serif; margin: 20px; position: relative; }
+.topnav { position: absolute; top: 10px; right: 10px; }
+.topnav a { margin-left: 10px; text-decoration: none; }
+h1.center { text-align: center; margin-top: 40px; }
+p.lead { text-align: justify; }
+
+.columns { display: flex; gap: 1cm; margin-top: 20px; }
+.column { flex: 1; }
+
+@media (max-width: 700px) {
+  .columns { flex-direction: column; }
+}
+
+a:hover { color: rgb(0, 124, 25); }
