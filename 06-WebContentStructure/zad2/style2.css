@@ -1,0 +1,50 @@
+/* Ogólne ustawienia wyglądu */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f8f8;
+  color: #333;
+}
+
+/* Kontener, który ogranicza szerokość strony */
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Tytuł na środku */
+h1 {
+  text-align: center;
+  color: #d06100;
+}
+
+/* Tabela */
+table {
+  width: 100%;
+  border-collapse: collapse; /* usuwa przerwy między liniami */
+  margin-top: 20px;
+}
+
+/* Styl nagłówków tabeli */
+th {
+  background-color: #149300;
+  color: white;
+  border: 1px solid #005e0e;
+  padding: 8px;
+}
+
+/* Styl zwykłych komórek */
+td {
+  border: 1px solid #004607;
+  padding: 8px;
+}
+
+/* Linki pod tabelą */
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red; /* zmiana koloru po najechaniu myszką */
+}
